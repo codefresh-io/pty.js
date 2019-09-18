@@ -10,7 +10,7 @@
     "test": "NODE_ENV=test mocha -R spec"
   },
   "dependencies": {
-    "extend": "~1.2.1",
+    "extend": "^2.0.2",
     "nan": "^2.14.0"
   },
   "devDependencies": {
